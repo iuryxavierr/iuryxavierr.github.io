@@ -1,0 +1,32 @@
+---
+title: "Sobre Mim"
+about:
+  template: trestles
+  image: aluno.png
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/iuryxavierr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/iury-xavier-a0ab78227/
+    - icon: envelope
+      text: Email
+      href: mailto:iuryxavi3r@gmail.com
+---
+
+## Olá, eu sou o Iury Xavier! 👋
+
+Sou estudante de **Engenharia de Agrimensura e Cartográfica** (7º semestre na UFBA) e tenho formação técnica em **Edificações**. O meu foco principal está na área de **geoprocessamento**, onde venho desenvolvendo continuamente as minhas competências em Sistemas de Informação Geográfica (SIG), principalmente utilizando o **QGIS**.
+
+Atualmente, procuro uma oportunidade de estágio para aplicar os meus conhecimentos na prática e continuar a evoluir tecnicamente no setor de cartografia e agrimensura.
+
+---
+
+### 💼 Experiência em Destaque
+
+**Diretor de Projetos** — *Datum Engenharia Júnior* (2025 - Presente)
+
+* Gestão e organização de projetos técnicos.
+* Coordenação de equipa, distribuição de tarefas e liderança de processos.
+* Padronização de workflows e processos internos da empresa júnior.

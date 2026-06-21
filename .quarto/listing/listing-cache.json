@@ -1,0 +1,7 @@
+{
+  "listingMap": {
+    "lista.qmd": [
+      "Notebooks/*.ipynb"
+    ]
+  }
+}

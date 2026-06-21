@@ -1,0 +1,20 @@
+---
+title: "Iury Xavier"
+about:
+  template: jolla
+  image: aluno.png
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/iuryxavierr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/iury-xavier-a0ab78227/
+    - icon: envelope
+      text: Email
+      href: mailto:iuryxavi3r@gmail.com
+---
+
+Estudante de **Engenharia de Agrimensura e Cartográfica** na UFBA, com foco em **geoprocessamento** e **QGIS**. Em busca de oportunidade de estágio na área de cartografia e agrimensura.
+
+

@@ -1,0 +1,11 @@
+/* css styles */
+/* Mudar a cor de fundo de todo o site */
+body {
+    background-color: #f4f6f9; /* Um cinza bem claro e moderno, ótimo para leitura */
+    color: #333333;            /* Cor do texto principal */
+}
+
+/* Se quiser mudar a cor da barra de menu do topo */
+.navbar {
+    background-color: #1e293b !important; /* Azul escuro elegante */
+}

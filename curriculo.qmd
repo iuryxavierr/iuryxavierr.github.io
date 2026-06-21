@@ -1,0 +1,54 @@
+---
+title: "Currículo"
+---
+
+[📄 Baixar versão em PDF](Iury_Xavier.pdf){.btn .btn-outline-primary role="button" target="_blank"}
+
+## Sobre Mim
+
+Estudante de **Engenharia de Agrimensura e Cartográfica** (7º semestre na UFBA), com formação técnica em Edificações. Tenho interesse na área de geoprocessamento e venho desenvolvendo conhecimentos em SIG (QGIS). Ao longo da minha trajetória, adquiri experiência com organização de projetos e trabalho em equipe em empresa júnior. Busco uma oportunidade de estágio para continuar aprendendo na prática e evoluir tecnicamente na área de cartografia e agrimensura.
+
+## Formação
+
+**Graduação em Engenharia de Agrimensura e Cartográfica**
+UFBA - Salvador | 2023.1 - presente
+
+**Técnico de Edificações**
+IFBA - Campus Ilhéus | 2018 - 2021
+
+## Habilidades
+
+- Inglês (intermediário)
+- Excel
+- QGIS
+- AutoCAD
+- Trabalho em equipe
+- Resolução de problemas
+
+## Experiência Profissional
+
+**Diretor de Projetos** — *Datum Engenharia Júnior*
+2025 - presente
+
+- Gestão e organização de projetos técnicos
+- Coordenação de equipe e distribuição de tarefas
+- Padronização de processos internos
+
+**Auxiliar Administrativo** — *Ilhéus Mecânica Auto Center*
+2024 - 2026
+
+- Emissão de orçamentos e notas fiscais
+- Controle financeiro básico e organização de documentos
+- Comunicação com fornecedores e acompanhamento de pedidos
+
+**Estagiário de Técnico de Edificações** — *Edifica Edificações*
+2021
+
+- Apoio no acompanhamento de obras e controle de atividades
+- Suporte à equipe na execução de tarefas operacionais
+
+## Contato
+
+- 📧 iuryxavi3r@gmail.com
+- 📱 (73) 99113-2837
+- 📍 Salvador - BA
