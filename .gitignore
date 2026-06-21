@@ -1,0 +1,4 @@
+.quarto/
+git add .gitignore
+git commit -m "ignorar pasta de cache do quarto"
+git push
