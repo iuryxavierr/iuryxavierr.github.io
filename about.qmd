@@ -2,7 +2,11 @@
 title: "Sobre Mim"
 about:
   template: trestles
+<<<<<<< HEAD
   image: Bahia.png
+=======
+  image: Bahia.jpeg
+>>>>>>> c9b3a9ad1f866ce8b6469dd1c5e4cc72d8a920a2
   links:
     - icon: github
       text: GitHub
@@ -23,19 +27,29 @@ about:
 Estudar Engenharia de Agrimensura e Cartográfica me fez descobrir que mapas são muito mais do que representações de lugares: eles conectam informações, contam histórias e ajudam a encontrar caminhos. Foi essa curiosidade e o fascínio por compreender o espaço ao nosso redor que fortaleceram meu interesse pela tecnologia e pelas soluções que transformam a maneira como enxergamos o mundo.
 Sou natural de Ilhéus-BA, terra do cacau e do mar, e atualmente moro em Salvador. Estou no 8º semestre de Engenharia de Agrimensura e Cartográfica pela UFBA e também sou Técnico em Edificações, construindo uma base sólida em engenharia, geotecnologias e análise espacial.
 Fora da vida acadêmica, valorizo muito minha família. Sou o primeiro filho da Claudia e do Jair, que sempre foram minha maior inspiração, e irmão mais velho do Ítalo, meu grande parceiro e meu xodó.
+<<<<<<< HEAD
 
 Nas horas livres, gosto pegar um fut,treinar Muay Thai, pegar um surf (é raro mas acontece), e claro acompanhar o meu Esporte Clube Bahia com orgulho. 🔴🔵⚪
 
 Acredito que aprender continuamente é a melhor forma de evoluir. Busco crescer tanto no aspecto pessoal quanto profissional, encarando cada desafio como uma oportunidade de ampliar conhecimentos e contribuir com soluções que façam a diferença.
 
+=======
+Nas horas livres, gosto pegar um fut,treinar Muay Thai, pegar um surf (raro mas acontece), e claro acompanhar o meu Esporte Clube Bahia com orgulho. 🔴🔵⚪
+Acredito que aprender continuamente é a melhor forma de evoluir. Busco crescer tanto no aspecto pessoal quanto profissional, encarando cada desafio como uma oportunidade de ampliar conhecimentos e contribuir com soluções que façam a diferença.
+>>>>>>> c9b3a9ad1f866ce8b6469dd1c5e4cc72d8a920a2
 
 
 ---
-
 ### 💼 Experiência em Destaque
 
 Diretor de Projetos — Datum Engenharia Júnior (2025 - Presente)
 
+<<<<<<< HEAD
   Gestão e organização de projetos técnicos.
   Coordenação de equipa, distribuição de tarefas e liderança de processos.
   Padronização de workflows e processos internos da empresa júnior.
+=======
+* Gestão e organização de projetos técnicos.
+* Coordenação de equipa, distribuição de tarefas e liderança de processos.
+* Padronização de workflows e processos internos da empresa júnior.
+>>>>>>> c9b3a9ad1f866ce8b6469dd1c5e4cc72d8a920a2
