@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// Paleta de Cores
+$body-bg: #ffffff;          // Fundo branco limpo
+$body-color: #212529;       // Texto escuro (cinza quase preto para melhor leitura)
+$link-color: #0056b3;       // Azul do Bahia para links e botões
+$link-hover-color: #e50914; // Vermelho do Bahia no hover (quando passa o mouse)
+
+// Detalhes da marca
+$primary: #0056b3;          // Azul como cor principal
+$danger: #e50914;           // Vermelho para detalhes importantes
+
+// Fontes e Bordas
+$font-family-sans-serif: "Helvetica Neue", Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+// Ajuste nos títulos para usar o azul do Bahia
+h1, h2, h3, h4, h5, h6 {
+  color: $primary;
+}
+
+// Borda ou detalhes vermelhos em elementos específicos (como na barra de navegação)
+.navbar {
+  border-bottom: 3px solid $danger; /* Detalhe vermelho sutil sob o menu */
+}
+
+// Estilo para os botões do template trestles
+.about-links .btn {
+  background-color: $primary !important;
+  border-color: $primary !important;
+  color: white !important;
+  
+  &:hover {
+    background-color: $danger !important;
+    border-color: $danger !important;
+  }
+}

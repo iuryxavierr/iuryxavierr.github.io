@@ -2,11 +2,10 @@
 title: "Currículo"
 ---
 
-[📄 Baixar versão em PDF](Iury_Xavier.pdf){.btn .btn-outline-primary role="button" target="_blank"}
 
 ## Sobre Mim
 
-Estudante de **Engenharia de Agrimensura e Cartográfica** (7º semestre na UFBA), com formação técnica em Edificações. Tenho interesse na área de geoprocessamento e venho desenvolvendo conhecimentos em SIG (QGIS). Ao longo da minha trajetória, adquiri experiência com organização de projetos e trabalho em equipe em empresa júnior. Busco uma oportunidade de estágio para continuar aprendendo na prática e evoluir tecnicamente na área de cartografia e agrimensura.
+Estudante de **Engenharia de Agrimensura e Cartográfica** (7º semestre na UFBA), com formação técnica em Edificações. Busco uma oportunidade de estágiogit add . para continuar aprendendo na prática e evoluir tecnicamente na área de cartografia e agrimensura.
 
 ## Formação
 
@@ -22,8 +21,9 @@ IFBA - Campus Ilhéus | 2018 - 2021
 - Excel
 - QGIS
 - AutoCAD
-- Trabalho em equipe
-- Resolução de problemas
+- Python 
+
+
 
 ## Experiência Profissional
 

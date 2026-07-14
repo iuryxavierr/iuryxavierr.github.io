@@ -1,9 +1,8 @@
 ---
-title: "Notebooks"
+title: "Trabalhos"
 listing: 
     contents: 
     - "Notebooks/*.ipynb"
+    - "Notebooks/*.qmd"
     type: grid    
-
 ---
-

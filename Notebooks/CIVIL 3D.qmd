@@ -1,13 +1,17 @@
 ---
+title: "Projeto de Vias no Civil 3D"
 categories:
   - UFBA
-  - PROJETO DE VIAS
+  - Projeto de Vias
   - PDF
-  - CIVIL 3D
+  - Civil 3D
 date: 2026-07-02
-description: Trabalho faculdade
+description: "Trabalho acadêmico desenvolvido para a disciplina de Projeto de Vias utilizando o software AutoCAD Civil 3D."
 image: images.jpg
-title: "CIVIL 3D"
 ---
 
-<embed src="CIVIL%203D.pdf" type="application/pdf" width="100%" height="700px">
+Neste projeto desenvolvido na UFBA, utilizei o **AutoCAD Civil 3D** para realizar o traçado e modelagem de uma via, aplicando os conceitos de engenharia de agrimensura e cartográfica.
+
+Se o arquivo não carregar automaticamente abaixo, você pode [fazer o download do PDF aqui](CIVIL%203D.pdf).
+
+<iframe src="CIVIL%203D.pdf" width="100%" height="800px" style="border: none;"></iframe>
