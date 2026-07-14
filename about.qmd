@@ -2,7 +2,7 @@
 title: "Sobre Mim"
 about:
   template: trestles
-  image: aluno.png
+  image: Bahia.jpeg
   links:
     - icon: github
       text: GitHub
