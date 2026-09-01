@@ -2,7 +2,7 @@
 title: "Iury Xavier"
 about:
   template: jolla
-  image: aluno.jpeg
+  image: Bahia.jpeg
   links:
     - icon: github
       text: GitHub
