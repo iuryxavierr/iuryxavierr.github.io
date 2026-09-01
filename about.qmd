@@ -20,7 +20,7 @@ about:
 
 ## Olá, eu sou o Iury Xavier! 👋
 
-Estudar Engenharia de Agrimensura e Cartográfica me fez descobrir que mapas são muito mais do que representações de lugares: eles conectam informações, contam histórias e ajudam a encontrar soluções para problemas complexos. Sou apaixonado por geoprocessamento e tecnologias geoespaciais como QGIS, Python e sensoriamento remoto. Atualmente, estou explorando ferramentas modernas de cartografia digital e análise de dados geográficos.
+Estudar Engenharia de Agrimensura e Cartográfica me fez descobrir que mapas são muito mais do que representações de lugares: eles conectam informações, contam histórias e ajudam a encontrar soluções. Essa paixão por tecnologia, inovação e mapeamento me move a buscar desafio como uma oportunidade de ampliar conhecimentos e contribuir com soluções que façam a diferença. <<<<< HEAD ======
 
 Sou natural de Ilhéus-BA, terra do cacau e do mar, e atualmente moro em Salvador. Estou no 8º semestre de Engenharia de Agrimensura e Cartográfica pela UFBA e também sou Técnico em Edificações.
 
@@ -34,8 +34,9 @@ Acredito que aprender continuamente é a melhor forma de evoluir. Busco crescer 
 
 ### 💼 Experiência em Destaque
 
-Diretor de Projetos — Datum Engenharia Júnior (2025 - Presente)
+**Diretor de Projetos — Datum Engenharia Júnior (2025 - Presente)**
 
 * Gestão e organização de projetos técnicos.
-* Coordenação de equipa, distribuição de tarefas e liderança de processos.
-* Padronização de workflows e processos internos da empresa júnior.
+* Coordenação de equipe, distribuição de tarefas e liderança de processos.
+* Padronização de workflows e processos internos da empresa júnior. <<<<< HEAD " Gestão e organização de projetos técnicos. " Coordenação de equipa, distribuição de tarefas e liderança de processos. " Padronização de workflows e processos internos da empresa júnior. ====== Gestão e organização de projetos técnicos. Coordenação de equipa, distribuição de tarefas e liderança de processos. Padronização de workflows e processos internos da empresa júnior.
+
