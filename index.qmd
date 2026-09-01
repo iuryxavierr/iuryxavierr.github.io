@@ -2,7 +2,7 @@
 title: "Iury Xavier"
 about:
   template: jolla
-  image: aluno.png
+  image: aluno.jpeg
   links:
     - icon: github
       text: GitHub
@@ -16,5 +16,4 @@ about:
 ---
 
 Estudante de **Engenharia de Agrimensura e Cartográfica** na UFBA. Em busca de oportunidade de estágio na área de cartografia e agrimensura.
-
 
