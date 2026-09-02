@@ -92,12 +92,12 @@ body {
   
   <h1 class="home-title">Iury Xavier</h1>
   
-  <p class="citation">
-    "O território não é apenas o conjunto de formas naturais e artificiais; é o território usado, o chão mais a identidade." — Milton Santos
-  </p>
-  
   <p class="home-text">
     Olá! Sou estudante de Engenharia de Agrimensura e Cartográfica na UFBA. Utilizo a tecnologia, o geoprocessamento e a análise de dados para mapear, compreender e transformar essas relações no espaço real.
+  </p>
+
+  <p class="citation">
+    "O território não é apenas o conjunto de formas naturais e artificiais; é o território usado, o chão mais a identidade." — Milton Santos
   </p>
   
   <div class="social-links">
