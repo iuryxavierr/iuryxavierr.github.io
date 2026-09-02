@@ -3,26 +3,22 @@ title: "Trabalhos"
 listing: 
     contents: 
     - "Notebooks/*.qmd"
-    - path: "Notebooks/Mapeamento Colaborativo com IA.pdf"
-      title: "Mapeamento Colaborativo com IA"
-      description: "Curso sobre mapeamento colaborativo utilizando inteligência artificial."
-      categories: [UFBA, CURSO, "3 HORAS"]
+    - path: "Notebooks/Relatório de Segurança de Barragens.pdf"
+      title: "Relatório de Segurança de Barragens: o que é e para que serve"
+      description: "Relatório do curso sobre segurança de barragens - Turma MAI/2024 com carga-horária de 30 horas."
+      categories: [ENAP, CURSO, "30 HORAS"]
     - path: "Notebooks/Declaração Inteligência Artificial e Aplicações Potenciais para Ciências Geodésicas - Iury Xavier Bento.pdf"
       title: "Inteligência Artificial e Aplicações Potenciais para Ciências Geodésicas"
-      description: "Declaração sobre inteligência artificial e suas aplicações em ciências geodésicas."
+      description: "Declaração de participação na atividade de Inteligência Artificial e Aplicações Potenciais para Ciências Geodésicas em 14/02/2025."
       categories: [UFBA, CURSO, "2 HORAS"]
-    - path: "Notebooks/Declaração Legislação e Conformidade Técnica no Uso de Drones no Brasil - Iury Xavier.pdf"
-      title: "Legislação e Conformidade Técnica no Uso de Drones no Brasil"
-      description: "Declaração sobre legislação e conformidade técnica no uso de drones no Brasil."
-      categories: [UFBA, CURSO, "2 HORAS"]
+    - path: "Notebooks/Certificado Clube dos Idiomas.pdf"
+      title: "Certificado — Inglês Básico 1"
+      description: "Certificado de conclusão do curso de inglês nível básico 1 com 24 horas de duração pelo Clube dos Idiomas."
+      categories: [CLUBE DOS IDIOMAS, CERTIFICADO, "24 HORAS"]
     - path: "Notebooks/PROJETO DE VIA.pdf"
       title: "Projeto de Via - Relatório Topográfico"
       description: "Relatório completo do projeto de via com análise topográfica."
       categories: [UFBA, "PROJETO DE VIA", RELATÓRIO]
-    - path: "Notebooks/Certificado Clube dos Idiomas.pdf"
-      title: "Certificado — Inglês Básico 1"
-      description: "Certificado de conclusão do curso de inglês nível básico 1 com 24 horas de duração pelo Clube dos Idiomas."
-      categories: [INGLÊS, CERTIFICADO, IDIOMAS]
     type: grid
     categories: true
 ---
